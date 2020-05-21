@@ -1,13 +1,11 @@
 # 100 Days Of Code - Log
+## Project Goal: I don't have one yet, but as I start to learn more about python, I will add one
 
+### Day 0: May 20, 2020 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I started off my python learning making use of the Python Bible course on Udemy, and so far I have learned about variables and numbers. I also worked on a project provided by the course that had me write code for making a health potion for a game character.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: It was really interesting to see how the code worked, and the project helped me understand the concepts i've learned so far.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
 
 
