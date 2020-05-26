@@ -17,3 +17,8 @@
 
 **Today's Progress**: I learned about methods, and slicing, and worked on a project to create an email slicer.
 **Thoughts**: It was a really good project, and it did a good job of helping understand how to slice, and it brought in components from my previous lessons which helped  me remember what I had learned.
+
+### Day 3: May 25, 2020 
+
+**Today's Progress**: I learned about logical and conditional flow. I got to uderstand how Bolean works, and made use of comparison operators and logical operators, and got to see what they did and how they worked together.
+**Thoughts**: It looks like there will be a lot to do with logical and comparison operators, and I can imagine how complicated the code can get with it, but I am excited to see what sorts of projects can be made from them.
