@@ -16,9 +16,16 @@
 ### Day 2: May 23, 2020 
 
 **Today's Progress**: I learned about methods, and slicing, and worked on a project to create an email slicer.
+
 **Thoughts**: It was a really good project, and it did a good job of helping understand how to slice, and it brought in components from my previous lessons which helped  me remember what I had learned.
 
 ### Day 3: May 25, 2020 
 
 **Today's Progress**: I learned about logical and conditional flow. I got to uderstand how Bolean works, and made use of comparison operators and logical operators, and got to see what they did and how they worked together.
+
 **Thoughts**: It looks like there will be a lot to do with logical and comparison operators, and I can imagine how complicated the code can get with it, but I am excited to see what sorts of projects can be made from them.
+
+### Day 4: May 27, 2020 
+
+**Today's Progress**: I learned about data structures in python. I learned how to create lists, tuples, and dictionaries. I worked on two projects, one focused on using dictionaires, and the other tying together all that I have learned since I started the python bible course.
+**Thoughts**: I will need to work on more projects to internalize how to make use of and manipulate data structures as well as everything else I have learned so far. Thankfully the python bible course on udem has me understanding everything I have learned so far, and I have not had any issue trying to understand any concepts.
