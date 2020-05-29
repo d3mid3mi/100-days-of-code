@@ -28,4 +28,11 @@
 ### Day 4: May 27, 2020 
 
 **Today's Progress**: I learned about data structures in python. I learned how to create lists, tuples, and dictionaries. I worked on two projects, one focused on using dictionaires, and the other tying together all that I have learned since I started the python bible course.
+
 **Thoughts**: I will need to work on more projects to internalize how to make use of and manipulate data structures as well as everything else I have learned so far. Thankfully the python bible course on udem has me understanding everything I have learned so far, and I have not had any issue trying to understand any concepts.
+
+### Day 5: May 28, 2020 
+
+**Today's Progress**: I learned about loops, while loops and for loops specifically. I worked on 2 projects. One that had me simulate a baby conversation with thte baby asking me why? over and over. The other project was code that turned regular english into pig latin.
+
+**Thoughts**: There was a lot to learn working on these two projects and I will have to revisit these modules in the course again to fully absorb everything. I think this is where the difficulty starts. I don't yet fuilly grasp how I can take all I have learned so far to create an idea I have. I understand how the code works and functions during the tutorial, but being able to take the language and mold it into ideas as I wish is still beyond me, but this is just day 6. I have barely started.
