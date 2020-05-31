@@ -36,3 +36,15 @@
 **Today's Progress**: I learned about loops, while loops and for loops specifically. I worked on 2 projects. One that had me simulate a baby conversation with thte baby asking me why? over and over. The other project was code that turned regular english into pig latin.
 
 **Thoughts**: There was a lot to learn working on these two projects and I will have to revisit these modules in the course again to fully absorb everything. I think this is where the difficulty starts. I don't yet fuilly grasp how I can take all I have learned so far to create an idea I have. I understand how the code works and functions during the tutorial, but being able to take the language and mold it into ideas as I wish is still beyond me, but this is just day 6. I have barely started.
+
+### Day 6: May 28, 2020 
+
+**Today's Progress**: I learned about functions, keyword parameters, and default parameters. I learned about packing and unpacking variables.
+
+**Thoughts**: This was a difficult section to grasp. I will be revisiting to better understand.
+
+### Day 7: May 28, 2020 
+
+**Today's Progress**: I worked on a project to create a tic tac toe game.
+
+**Thoughts**: I enjoyed making the game, and it was cool to see all the things I have learned so far be used in the game.
