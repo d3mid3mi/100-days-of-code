@@ -48,3 +48,20 @@
 **Today's Progress**: I worked on a project to create a tic tac toe game.
 
 **Thoughts**: I enjoyed making the game, and it was cool to see all the things I have learned so far be used in the game.
+
+### Day 8: May 28, 2020 
+
+**Today's Progress**: I learned about Object Oriented Programming (OOP). It was broken down to classes and objects, and making use of contstructers, destructers, polymorphism, and methods.
+
+**Thoughts**: It was not easy to grasp the concept of OOP as well as how to make use of the parent class, children class, and methods contained in them. I will need to revisit and practice to get it down.
+
+### Day 9: May 28, 2020 
+
+**Today's Progress**: Was a slow day. I continued to learn about OOP and making use of data structures in OOP. 
+
+**Thoughts**: It was still a struggle to grasp so I will practice some more.
+
+### Day 10: May 28, 2020 
+
+**Today's Progress**: I worked on a bank project making use of OOP. I finished my Udemy course on python as well.
+**Thoughts**: I had a better understanding of how OOP works, and how the code works, but still need more practice.
