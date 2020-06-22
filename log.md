@@ -84,3 +84,24 @@
 **Today's Progress**: Started a new python course called the Modern Python 3 bootcamp by colt steele on Udemy.
 
 **Thoughts**: I am mainly doing this for more practice.
+
+### Day 14: June 12, 2020 
+
+**Today's Progress**: Learned about using  f instead of using .format() today, and practiced by making code that converts kilometers to miles.
+
+**Thoughts**: Learinng about this simple formatting method which makes writing code easier makes excited other possibilities available for simplifying code.
+
+### Day 15: June 14, 2020 
+
+**Today's Progress**: Practiced boolean and conditional statement today.
+
+**Thoughts**: Not been feeling too good about everything going on, so Im taking a break from coding
+
+### Day 16: June 22, 2020 
+
+**Today's Progress**: Took a week off from coding. Started off again with more practice with boolean and conditional statements. Made a rock, paper, scissors game that is player vs computer.
+
+
+**Thoughts**: It was a good refresher on what I had learned previously, and I used a new concept called nesting.
+
+
